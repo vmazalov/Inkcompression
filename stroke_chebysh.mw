@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Worksheet>
+<Version major="13" minor="0"/>
+<Label-Scheme value="2" prefix=""/>
+<View-Properties presentation="false"></View-Properties>
+<MapleNet-Properties elisiondigitsbefore="100" labelling="true" indentamount="4" elisiontermsthreshold="10000" ansi="false" errorbreak="1" useclientjvm="true" echo="1" imaginaryunit="I" labelwidth="20" plotdriver="openviz" elisiondigitsafter="100" plotoutput="terminal" rtablesize="10" elisiontermsbefore="100" elisiondigitsthreshold="10000" typesetting="standard" plotdevice="inline" verboseproc="1" showassumed="1" errorcursor="false" longdelim="true" plotoptions="" quiet="false" elisiontermsafter="100" screenwidth="79" preplot="" prettyprint="3" displayprecision="-1" warnlevel="3" screenheight="25" latexwidth="6.0" postplot="" prompt="&gt; " ShowLabels="true"/>
+<Styles><Font name="Ordered List 1" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 2" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 3" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 4" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 5" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Author" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Warning" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input Placeholder" background="[255,255,255]" bold="true" executable="true" family="Monospaced" foreground="[200,0,200]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="true"/>
+<Font name="Maple Plot" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Code" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Line Printed Output" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text Output" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Diagnostic" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[40,120,40]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Inert Output" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[144,144,144]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Normal" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[0,128,128]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Maple Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Dash Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Math" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input" background="[255,255,255]" bold="true" executable="true" family="Monospaced" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Input" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkError" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Header and Footer" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="10" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Error" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 1" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Bullet Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 4" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Equation Label" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 3" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="14" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 2" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="16" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkWarning" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Dictionary Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[147,0,15]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="List Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Layout name="Ordered List 1" alignment="left" bullet="numeric" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 2" alignment="left" bullet="alphabetic" firstindent="0" leftmargin="36" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 3" alignment="left" bullet="roman" firstindent="0" leftmargin="72" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 4" alignment="left" bullet="ALPHABETIC" firstindent="0" leftmargin="108" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 5" alignment="left" bullet="ROMAN" firstindent="0" leftmargin="144" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Author" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="8" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Warning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Annotation Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Plot" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Line Printed Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Text Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="newline" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Diagnostic" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Normal" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Output" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.3" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Dash Item" alignment="left" bullet="dash" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkError" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Error" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 1" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="4" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Bullet Item" alignment="left" bullet="dot" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 4" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 3" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 2" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="2" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkWarning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="List Item" alignment="left" bullet="indent" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Pencil-style name="Pencil 5" pen-color="[255,0,0]" pen-height="5.0" pen-width="5.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 4" pen-color="[0,0,255]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 3" pen-color="[0,0,0]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 2" pen-color="[0,0,255]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 1" pen-color="[0,0,0]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Highlighter-style name="Highlighter 2" pen-color="[255,204,0]" pen-height="14.0" pen-width="14.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 1" pen-color="[255,153,255]" pen-height="12.0" pen-width="8.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 4" pen-color="[0,255,255]" pen-height="32.0" pen-width="32.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 3" pen-color="[51,255,0]" pen-height="24.0" pen-width="24.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 5" pen-color="[255,255,0]" pen-height="48.0" pen-width="48.0" pen-opacity="0.8"/>
+</Styles>
+<Task-table>
+    <Task-category name="&lt;default&gt;">
+    </Task-category>
+</Task-table>
+<Task>
+</Task>
+<Group labelreference="L3" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">readlib(readdata):</Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">with(orthopoly):</Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">kernelopts(printbytes = false):</Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">Digits := 30: 
+maxerlim := 2.25: 
+curerror := 1.5: 
+for maxerlim from 3.0 by -0.1 to 3.0 do 
+ pointsall := readdata(`/scl/people/vadim/invariants/compression/words/points2floall`, float, 2):</Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">
+file := fopen(&quot;coefs.dat&quot;,'WRITE');
+ try
+ totalcoefs := 0: 
+ totalsizex := 0: 
+ totalchu := 0: 
+ while nops(pointsall) &gt; 3 do 
+  oi := 1:
+  pointso := pointsall: 
+  boltem := true: 
+  while boltem do 
+   if `and`(pointsall[1, 1] = 0, pointsall[1, 2] = 0) then 
+    pointsall := subsop(1 = NULL, pointsall):    
+    boltem := false 
+   else 
+    oi := oi+1: 
+    pointsall := subsop(1 = NULL, pointsall): 
+   end if 
+  end do: 
+  numpo := nops(pointso): 
+  for pi from oi+1 to numpo-1 do 
+   pointso := subsop(oi+1 = NULL, pointso): 
+  end do: 
+  mincom := 0: 
+  mincoefs := array(1 .. 200): 
+  mincfs := 0: 
+  minchu := 0: 
+  mindigs:=0:
+  mincurcom := 0: 
+  mind:=0:
+  firstgo:=true:
+  for digs from 6 by -1 to 4 do #25 to 5
+   maxnum := 1: 
+   maxnum0 := 1: 
+   curpr := 1: 
+   for ew to digs-2 do 
+    curpr := 2*curpr: 
+    maxnum := maxnum+curpr:
+   end do: 
+   curpr := 1: 
+   for ew to 2*digs-2 do 
+    curpr := 2*curpr: 
+    maxnum0 := maxnum0+curpr 
+   end do: 
+   for d from 1 to 11 do # 3 to 16
+    curchu := 0: 
+    bolstop:=false:
+    curcom := 0: 
+    curcoefs := array(1 .. 200): 
+    curpoints := 0: 
+    curcfs := 0: 
+    curerror := sqrt(maxerlim): 
+    points := pointso: 
+    sizex := 0: 
+    a := 1: 
+    inter := 2: 
+    b := a+inter: 
+    while nops(points) &gt; inter do 
+     finalx := 0: 
+     for m from 0 to d do 
+      integx := 0: 
+      integ1 := int((fa+(fb-fa)*(x-sk)/(sk+1-sk))*subs(y = (2*x-b-a)/(b-a), T(m, y))/sqrt(1-((2*x-b-a)/(b-a))^2), x): 
+      inden := denom(integ1): 
+      innum := numer(integ1): 
+      densq := inden*inden: 
+      integ := simplify(innum*inden/densq): 
+      for k from a to b-1 do 
+       fxa := points[k, 1]: 
+       fxb := points[k+1, 1]: 
+       integx := integx+evalf[20](subs(x = k+1, subs(fb = fxb, subs(fa = fxa, subs(sk = k, integ))))-subs(x = k, subs(fb = fxb, subs(fa = fxa,        subs(sk = k, integ))))) 
+      end do: 
+      coefdeg := 0: 
+      if m = 0 then 
+       somex := evalf[10](2*integx/(Pi*(b-a))): 
+       if abs(somex)&gt;=maxnum0 then
+        bolstop:=true:
+        break:
+       fi:  
+       while abs(somex) &lt; maxnum0 and coefdeg &lt; 2 do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        coefdeg := coefdeg+1: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        somex := 10*somex: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       end do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">      else </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       somex := evalf[10](4*integx/(Pi*(b-a))): 
+       if abs(somex)&gt;=maxnum then
+        bolstop:=true:
+        break:
+       fi:  </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       while abs(somex) &lt; maxnum and coefdeg &lt; 2 do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        coefdeg := coefdeg+1: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        somex := 10*somex </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       end do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">      end if: 
+      coefsx[m] := round(somex)/10^coefdeg: 
+      finalx := finalx+coefsx[m]*subs(x = (2*y-b-a)/(b-a), T(m, x)) 
+     end do: 
+     if bolstop=true then
+      break:
+     fi: 
+     RMS := 0: 
+     maxer := 0: 
+     for i from a to b do 
+      xpoints[i] := evalf[10](subs(y = i, finalx)): 
+      RMS := RMS+(points[i, 1]-xpoints[i])^2:
+      maxer := max(maxer, abs(points[i, 1]-xpoints[i])) 
+     end do: 
+     RMS := round(sqrt(RMS/(b-a+1))): 
+     if `or`(points[b+1, 1] = 0, points[b+2, 1] = 0) then 
+      finalxin := 0: 
+      for mvn from 0 to 20 do 
+       integxin := 0: 
+       integ1in := int((fa+(fb-fa)*(x-sk)/(sk+1-sk))*subs(y = (2*x-b-a)/(b-a), T(mvn, y))/sqrt(1-((2*x-b-a)/(b-a))^2), x): 
+       indenin := denom(integ1in): 
+       innumin := numer(integ1in): 
+       densqin := indenin*indenin: 
+       integin := simplify(innumin*indenin/densqin): 
+       for k from a to b-1 do 
+        fxa := points[k, 1]: 
+        fxb := points[k+1, 1]: 
+        integxin := integxin+evalf[20](subs(x = k+1, subs(fb = fxb, subs(fa = fxa, subs(sk = k, integin))))-subs(x = k, subs(fb = fxb, subs(fa =        fxa, subs(sk = k, integin))))) 
+       end do: 
+       coefdeg := 0: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       if mvn = 0 then </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        somex := evalf[10](2*integxin/(Pi*(b-a))): 
+        if abs(somex)&gt;=maxnum0 then
+         bolstop:=true:
+         break:
+        fi: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        while abs(somex) &lt; maxnum0 and coefdeg &lt; 2 do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">         coefdeg := coefdeg+1: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">         somex := 10*somex </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        end do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       else </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        somex := evalf[10](4*integxin/(Pi*(b-a))): 
+        if abs(somex)&gt;=maxnum then
+         bolstop:=true:
+         break:
+        fi: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        while abs(somex) &lt; maxnum and coefdeg &lt; 2 do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">         coefdeg := coefdeg+1: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">         somex := 10*somex:
+        end do </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       end if: 
+       if bolstop=true then
+        break:
+       fi: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">       coefsxin[mvn] := round(somex)/10^coefdeg: 
+       finalxin := finalxin+coefsxin[mvn]*subs(x = (2*y-b-a)/(b-a), T(mvn, x)): 
+       RMS := 0: 
+       maxer := 0: 
+       for i from a to b do 
+        RMS := RMS+(points[i, 1]-evalf(subs(y = i, finalxin)))^2: 
+        maxer := max(maxer, abs(points[i, 1]-evalf(subs(y = i, finalxin)))) 
+       end do: 
+       RMS := round(sqrt(RMS/(b-a+1))): 
+#print(&quot;RMS&quot;, RMS,&quot;maxer&quot;,maxer, maxnum, maxnum0):
+       if `or`(`and`(RMS &lt; curerror, maxer &lt; maxerlim), mvn = 20) then 
+  if (mvn=20) then print(&quot;priehali&quot;): fi:
+        curchu := curchu+1: 
+        for qwe from 0 to mvn do 
+         curcoefs[qwe+1+curcom] := coefsxin[qwe]: 
+#print(evalf(coefsxin[qwe]),maxnum):
+         ax := sizex: 
+         if trunc(abs(coefsxin[qwe])) &lt;= 0 then 
+          sizex := sizex+digs+1 
+         else 
+          sizex := sizex+trunc(log[10](abs(coefsxin[qwe])))+digs+1 
+         end if 
+        end do: 
+        curcom := curcom+mvn+1: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        curcfs := curcfs+mvn+1: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        curpoints := curpoints+b: </Text-field>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">        RMS := 0: 
+        maxer := 0: 
+        mvn := 21: 
+        for we from a to min(b, nops(points)-1) do 
+         points := subsop(1 = NULL, points) 
+        end do: 
+        b := a+inter: 
+        if nops(points) &gt; 2 then 
+         if points[1, 1] = 0 then 
+          subsop(1 = NULL, points): 
+          points := subsop(1 = NULL, points) 
+         else 
+          if points[2, 1] = 0 then 
+           points := subsop(1 = NULL, points): 
+           points := subsop(1 = NULL, points) 
+          end if 
+         end if 
+        end if 
+       end if 
+      end do:
+      if bolstop=true then 
+       break: 
+      end if:  
+     else if `or`(RMS &gt;= curerror, maxer &gt;= maxerlim) then 
+#print(&quot;outer&quot;, maxer,RMS):
+      curchu := curchu+1: 
+      for qwe from 0 to d do 
+#print(evalf(coefsx[qwe]),maxnum):
+       ax := sizex: 
+       if trunc(abs(coefsx[qwe])) &lt;= 0 then 
+        sizex := sizex+digs+1 
+       else 
+        sizex := sizex+trunc(log[10](abs(coefsx[qwe])))+digs+1 
+       end if 
+      end do: 
+      curcom := curcom+d+1: 
+      curpoints := curpoints+b: 
+      curcfs := curcfs+d+1: 
+      for we from a to min(b, nops(points)-1) do 
+       points := subsop(1 = NULL, points) 
+      end do: 
+      if points[3, 1] = 0 then 
+       for we from a to min(3, nops(points)-1) do 
+        points := subsop(1 = NULL, points) 
+       end do 
+      end if: 
+      b := a+inter 
+     else 
+      b := b+inter 
+     end if 
+    end if 
+   end do: 
+   if mincom = 0 and firstgo=true and bolstop=false then 
+    minchu := curchu: 
+    mincom := curcfs*(digs+3)+10*curchu: 
+    mincoefs := curcoefs: 
+    mincfs := curcfs: 
+    mindigs:=digs:
+    mincurcom:=curcom:
+    mind:=d:
+    firstgo:=false:
+   elif (mincom &gt; curcfs*(digs+3)+10*curchu) and curcfs&lt;&gt;0 and bolstop=false then 
+    minchu := curchu: 
+    mincom := curcfs*(digs+3)+10*curchu: 
+    mincoefs := curcoefs:   
+    mincfs := curcfs: 
+    mindigs:=digs:
+    mincurcom:=curcom:
+    mind:=d:
+   end if :
+   #print(&quot;tcfs&quot;,totalcoefs,&quot;cfs&quot;, curcfs, &quot;tcks&quot;,totalchu, &quot;cks&quot;, curchu, &quot;tsze&quot;, totalsizex, &quot;sze&quot;, mincom, digs, d,&quot;stop&quot;,bolstop):
+  end do 
+ end do: 
+ print(&quot;MIN&quot;,&quot;tcfs&quot;,totalcoefs, &quot;tsz&quot;,totalsizex,&quot;sz&quot;, mincom,&quot;dig&quot;,mindigs,&quot;d&quot;,mind,&quot;chus&quot;,minchu, mincoefs[1], curcoefs[1], coefsxin[1]):
+ fprintf(file,&quot;%g &quot;, mindigs):
+ fprintf(file,&quot;%g &quot;, mind):
+ for iop from 1 to mincurcom do
+  print(file,&quot;%g &quot;, mincoefs[iop]):
+ end do:
+ <Font encoding="UTF-8">fprintf(file, &quot;\134n&quot;):</Font>
+ totalsizex := totalsizex+mincom: 
+ totalcoefs := totalcoefs+mincfs: 
+ totalchu := totalchu+minchu: 
+end do: 
+print(&quot;FINAL&quot;, maxerlim, totalsizex): 
+finally fclose(file):
+end try;
+end do:</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NjJRJE1JTjYiUSV0Y2ZzRiQiIiFRJHRzekYkRiZRI3N6RiQiI1VRJGRpZ0YkIiImUSJkRiQiIiNRJWNodXNGJCIiIiZJKWN1cmNvZWZzR0YkNiNGL0YwIyEjUiIjNQ==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NiUiIiFRJCVnfjYiJkkpY3VyY29lZnNHRiU2IyIiIg==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NiUiIiFRJCVnfjYiJkkpY3VyY29lZnNHRiU2IyIiIw==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NiUiIiFRJCVnfjYiJkkpY3VyY29lZnNHRiU2IyIiJA==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NiUiIiFRJCVnfjYiJkkpY3VyY29lZnNHRiU2IyIiJQ==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NjJRJE1JTjYiUSV0Y2ZzRiQiIiVRJHRzekYkIiNVUSNzekYkIiNQUSRkaWdGJCIiJ1EiZEYkIiIjUSVjaHVzRiQiIiImSSljdXJjb2Vmc0dGJDYjRjBGMSMiJCwiIiM1</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NiUiIiFRJCVnfjYiJkkpY3VyY29lZnNHRiU2IyIiIg==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NiUiIiFRJCVnfjYiJkkpY3VyY29lZnNHRiU2IyIiIw==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NiUiIiFRJCVnfjYiJkkpY3VyY29lZnNHRiU2IyIiJA==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="HyperlinkWarning" layout="HyperlinkWarning"><Hyperlink linktarget="http://www.maplesoft.com/support/help/errors/view.aspx?path=Warning,%20%20computation%20interrupted" hyperlink="true"><Font style="HyperlinkWarning">Warning,  computation interrupted</Font></Hyperlink></Text-field>
+</Output>
+</Group>
+<Group labelreference="L8" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+</Worksheet>
