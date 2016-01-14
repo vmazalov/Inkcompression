@@ -1,4 +1,4 @@
-# Ink Compression
+# Digital Ink Compression
 
 This repo contains some of the experimentation files from my PhD for
 
